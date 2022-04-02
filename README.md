@@ -1,2 +1,2 @@
-# kalloc-type
-types of kalloc
+# `kalloc` Types
+`kalloc` type list
