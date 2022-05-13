@@ -1,0 +1,2284 @@
+[
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "822",
+    "name" : "site.struct ipc_entry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.mach_port_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "33",
+    "name" : "site.struct ipc_port_request",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "122",
+    "name" : "site.struct ivac_entry_s",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.bt_hash_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "13",
+    "name" : "site.struct hazard_bucket.struct hazard_record",
+    "size_hdr" : 16
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.ipc_port_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 2,
+    "signature" : "",
+    "name" : "site.uint16_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.task_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.thread_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.void *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "118",
+    "name" : "site.struct task_watchports.struct task_watchport_elem",
+    "size_hdr" : 32
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.thread_watchlist_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.compressor_slot_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.c_segment_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.memory_object_control_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct shared_file_mapping_slide_np *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.char *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct nfs_fs_location *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct nfs_fs_server *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.PFI",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.fs_event_watcher.kfs_event *",
+    "size_hdr" : 128
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.struct devfs_vnode_event",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct bpf_d *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct _bridge_rtnode_list",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.caddr_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct if_proto *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "212",
+    "name" : "site.struct ifnet_demux_desc",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.ifaddr_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.ifmultiaddr_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.ifnet_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct necp_kernel_socket_policy *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct necp_kernel_ip_output_policy *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.u_int8_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct pf_rule *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct llentries",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.const void *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct in_multi *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "122",
+    "name" : "site.struct in_mfilter",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct inpcb *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.struct dn_heap_entry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct dn_flow_queue *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct flow_divert_group *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct in6_multi *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "122",
+    "name" : "site.struct in6_mfilter",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct secpolicy *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct secasvar *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.struct sav_dump_elem",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.struct kd_storage_buffers",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct klist",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct kctl *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct generic_hash_head",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.struct kern_iovec",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.memorystatus_internal_properties_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct persona *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct ptmx_ioctl *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct uio *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "1112",
+    "name" : "site.struct recv_msg_elem",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct unpcb *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct fileglob *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 56,
+    "signature" : "2121121",
+    "name" : "site.struct _sr_file_mappings",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 128,
+    "signature" : "2121212121212220",
+    "name" : "site.struct _bucket",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct skmem_bufctl_bkt",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 16,
+    "signature" : "11",
+    "name" : "site.struct sksegment_bkt",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct slot_ctx",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.kern_packet_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct __kern_channel_ring *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 368,
+    "signature" : "2212221222222222222222212222222212222222222222",
+    "name" : "site.struct nx_netif_mit",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct mbuf *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.struct kern_nexus_netif_llink_qset_init",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "22111212",
+    "name" : "site.struct netif_qset.struct netif_queue",
+    "size_hdr" : 48
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct nexus_upipe_adapter *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.OSMetaClass *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.ArrayPtrType",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 16,
+    "signature" : "11",
+    "name" : "site.dictEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 16,
+    "signature" : "11",
+    "name" : "site.kmod_reference_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 24,
+    "signature" : "111",
+    "name" : "site.typeof(accountingList[0])",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site._Element",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.Bucket",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.OSSymbol *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.OSObject *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IODTPersistent",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 16,
+    "signature" : "11",
+    "name" : "site.IOInterruptAccountingReporter",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 16,
+    "signature" : "11",
+    "name" : "site.IOInterruptSource",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOInterruptSourcePrivate",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.DriverCallParam",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOMemoryDescriptor *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.IOVirtualRange",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "21121111",
+    "name" : "site.IOInterruptVector",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 56,
+    "signature" : "1111122",
+    "name" : "site.IODataQueueDispatchSource_IVars",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "12211112",
+    "name" : "site.OSAction_IVars",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IODispatchQueue *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "122222",
+    "name" : "site.WorkTableEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOMemoryMap *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.Segment",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 40,
+    "signature" : "12221",
+    "name" : "site.ppl_iommu_seg",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 24,
+    "signature" : "111",
+    "name" : "site.PMSettingCallEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IORequest * _Atomic",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "2111",
+    "name" : "site.AnchorSlot",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.MinorSlot *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 80,
+    "signature" : "2111212122",
+    "name" : "site.MinorSlot",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 44,
+    "signature" : "",
+    "name" : "site.struct MCDataStreamConfig",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.const OSSymbol *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 72,
+    "signature" : "211111111",
+    "name" : "site.IODeviceClock",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 1104,
+    "signature" : "211122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222211222222212222222212222221222221122222222222",
+    "name" : "site.AppleARMPerformanceControllerPerformanceDomain",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.float",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.IOAOPFBRect",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 128,
+    "signature" : "1222222222222212",
+    "name" : "site.CompassCompensation",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.Timesync",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOSerialBSDClient*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOSkywalkPacketBuffer *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.Packet",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.Buffer",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOSkywalkRingSlot *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "12212221",
+    "name" : "site.PendingContext",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "1222",
+    "name" : "site.IOPCIEvent",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 72,
+    "signature" : "111222222",
+    "name" : "site.iomdHistoryEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "21112322",
+    "name" : "site._segmentHistoryEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 96,
+    "signature" : "111222222211",
+    "name" : "site.iomdCacheEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AppleEmbeddedPCIEPort *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "122222",
+    "name" : "site.AERLogEvent",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AppleSmartIOCommand *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 312,
+    "signature" : "",
+    "name" : "site.ifnet_keepalive_offload_frame",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "111222",
+    "name" : "site.Completion",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.char",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOFence *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 80,
+    "signature" : "2222221111",
+    "name" : "site.IOSurfacePlaneInfo",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.OSSharedPtr<IOSurfaceDeviceCache>",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOSurfaceClientPlaneInfo",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOSurface *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.sDeadSurface",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOSurfaceClient *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "221111",
+    "name" : "site.Buffer",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.void*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOBufferMemoryDescriptor*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOUSBHostStream*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "112",
+    "name" : "site.AsyncIOBundledMemoryDescriptorRingElement",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.ClusterData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 12,
+    "signature" : "",
+    "name" : "site.PSRegGroupData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOInterruptEventSource *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "121212",
+    "name" : "site.SOCCluster",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 64,
+    "signature" : "",
+    "name" : "site.PSRegToDeviceIDMap",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.PwrGateRegGroupData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 32,
+    "signature" : "",
+    "name" : "site.PwrGateRegToPowerDomainIDMap",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.PerfRegGroupData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.BridgeData*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "12211112",
+    "name" : "site.BridgeData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 272,
+    "signature" : "1221111122221221211111122121111112",
+    "name" : "site.PerfDomain",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 19648,
+    "signature" : "12222222212222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222211111111111111111111111111111111122222222112222222221211111222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
+    "name" : "site.CPUComplex",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.VoltageState",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.UInt64",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 76,
+    "signature" : "",
+    "name" : "site.DeviceIDMask",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.EnergyCounterMap",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 2,
+    "signature" : "",
+    "name" : "site.DeviceID",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.ClockData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.PowerDomainData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.EventData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 56,
+    "signature" : "2222111",
+    "name" : "site.DeviceEventHistogram",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.RoscData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.SOCPerfBoostData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.ApplePMGRNub::DeviceDVFSState",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.ApplePTD",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.UInt32",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.DeviceSetData",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 20,
+    "signature" : "",
+    "name" : "site.PTDRangeInfo",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOInterruptEventSource*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.uint32_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 128,
+    "signature" : "2211112222122222",
+    "name" : "site.H11ANESharedClientBufferArgs",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 11264,
+    "signature" : "2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222211111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111122222111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
+    "name" : "site.coalesceInfoMultiPlane",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 8184,
+    "signature" : "222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111112211111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
+    "name" : "site.coalesceInfo",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "222",
+    "name" : "site.USBDeviceIsocAsyncParam.IOUSBDeviceIsocFrame",
+    "size_hdr" : 104
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOCommand *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 96,
+    "signature" : "122222222222",
+    "name" : "site.actionFrameQueueEntry_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 16,
+    "signature" : "11",
+    "name" : "site.queue_chain_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 11696,
+    "signature" : "1222222222222222222222222222222222222222222222222222211111111111222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
+    "name" : "site.IO80211NANPeerManager_IVars",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 248,
+    "signature" : "1111222221122222222222222222222",
+    "name" : "site.struct IO80211BufferPool_IVars",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.MemoryBuffer",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 11200,
+    "signature" : "11111211111111111111111111121111111111112111111111111111111111111121111111111111111111111111111111111222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222121222222",
+    "name" : "site.IO80211InterfaceMonitor_IVars",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 160,
+    "signature" : "11222111121111112112",
+    "name" : "site.CommandEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.UInt64*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOGeneralMemoryDescriptor *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOMultiMemoryDescriptor*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOSubMemoryDescriptor*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "212",
+    "name" : "site.AppleUSBAudioIndividualFrameInfo",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 56,
+    "signature" : "2222121",
+    "name" : "site.AppleUSBAudioTransferInfo",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 24,
+    "signature" : "111",
+    "name" : "site.IOUSBHostIsochronousCompletion",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 2,
+    "signature" : "",
+    "name" : "site.UInt16",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.OSData *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.KDIUDIFCacheBuffer *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.__OSHashEntryBucket",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.SCSILogicalUnitPath *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 88,
+    "signature" : "22211112222",
+    "name" : "site.dsimSACAggressor_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "1222",
+    "name" : "site.AppleSACPLLConfig",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.OSData*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.bool",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "12112221",
+    "name" : "site.struct l2tp_udp_thread",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.LSKDTimestampRef",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 32,
+    "signature" : "",
+    "name" : "site.FPSubsExpiration",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.Event",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOGPUMemoryMap *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOGPUObject *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.stamp_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOGPUCommandDescriptor *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "122",
+    "name" : "site.struct sGPURestartRegisteredCommandQueue",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOGPUResource *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOGPUMemory *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.ResidentEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOBufferMemoryDescriptor *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXGart *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.struct sAGXIOSurfaces",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.AGXBlockFenceRingEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXFirmwareResourceAllocation *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXHardwareBufferBase *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXGartPageDirEntry *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOBufferMemoryDescriptor **",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXGartPageTabEntry **",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.int32_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXGartPageTabEntry *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXGartPageDirEntry **",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGFIParameterSceneAllocationState *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXParameterBufferBlock *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXMemoryMap *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AGXAllocation *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "122121",
+    "name" : "site.AGXPerfCtrSource",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOLock *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 64,
+    "signature" : "",
+    "name" : "site.sIOGPUEvent",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.uint64_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.uint64_t **",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.const OSSymbol*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 56,
+    "signature" : "1112122",
+    "name" : "site.apfs_rawdev_desc_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "122222",
+    "name" : "site.delta_io_extent_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.delta_op_authapfs_node_t.uint8_t",
+    "size_hdr" : 13
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_snap_name_t.uint8_t",
+    "size_hdr" : 32
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "1222",
+    "name" : "site.fs_calculate_snapshot_range_space_usage_info_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "2212",
+    "name" : "site.sm_slice_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.j_file_extent_t*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.int64_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 232,
+    "signature" : "",
+    "name" : "site.struct edt_fstab",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_xattr_key_t.uint8_t",
+    "size_hdr" : 10
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_xattr_val_t.uint8_t",
+    "size_hdr" : 4
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.j_file_info_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_xattr_t.uint8_t",
+    "size_hdr" : 24
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_snap_metadata_val_t.uint8_t",
+    "size_hdr" : 50
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.debug_apfs_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "2221",
+    "name" : "site.dstream_nx_info_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 48,
+    "signature" : "",
+    "name" : "site.dstream_info_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "222122",
+    "name" : "site.struct bootcache_dstreams_info",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.apfs_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.typeof(*hashtbl)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_crypto_state_t.uint8_t",
+    "size_hdr" : 40
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.apfs_omap_tree_node_extent_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.apfs_fx_defrag_region_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 64,
+    "signature" : "",
+    "name" : "site.apfs_debug_file_ext_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.apfs_debug_dstream_list_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.lck_rw_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct jnodehashhead",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_sibling_link_t.uint8_t",
+    "size_hdr" : 40
+  },
+  {
+    "flags" : 100,
+    "size_type" : 1,
+    "signature" : "2",
+    "name" : "site.j_dir_rec_t.uint8_t",
+    "size_hdr" : 64
+  },
+  {
+    "flags" : 108,
+    "size_type" : 1,
+    "signature" : "",
+    "name" : "site.j_file_info_t.uint8_t",
+    "size_hdr" : 32
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.phys_lock_range_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.uint64_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.dir_entry_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.j_file_extent_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "222122",
+    "name" : "site.bootcache_dstreams_info_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.typeof(*n)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.btree_node_t*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.int",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.btree_node_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct crypto_hash_head",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.struct obj_hash_head",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.obj_t *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.struct extent",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.bm_hint_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.ipaddr_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.spaceman_block_boundary_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.prange_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "1222",
+    "name" : "site.tx_dirty_work_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.x_field_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.x_type_offset_pair_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.StandardUSBXHCIProtocolCapability.uint32_t",
+    "size_hdr" : 16
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.IODPSACAggressor",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.IODPSACIndex",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.IODPLinkBitRate",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.IODPLinkRateRange",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 56,
+    "signature" : "",
+    "name" : "site.t8110dart_apf_slice",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IODART::ptRef",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "211",
+    "name" : "site.mapperData_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.dartSetWayTagPA",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4,
+    "signature" : "",
+    "name" : "site.uint32_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 16,
+    "signature" : "",
+    "name" : "site.smmuSTTData_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 24,
+    "signature" : "",
+    "name" : "site.IOUSBDeviceIsocFrame",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AppleAVDUserClient*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 64,
+    "signature" : "12122121",
+    "name" : "site.sPQEntry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.typeof(*free_entries)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.struct bsddev_cache_entry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "21",
+    "name" : "site.typeof(*entries)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.typeof(*nodelist->nodes)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.typeof(*new_nodes)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "221",
+    "name" : "site.struct userret_task_entry",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "221",
+    "name" : "site.typeof(*new_tasks)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "221",
+    "name" : "site.typeof(*userret_tasks)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.struct variable_info",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.matchExpr_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.typeof(*pr->regexes)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 8,
+    "signature" : "",
+    "name" : "site.typeof(*pr->variables)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.typeof(*ancestors)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.struct storage_class_descriptor",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.typeof(*storage_class_descriptors)",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.SensorInfo",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 108,
+    "size_type" : 4096,
+    "signature" : "",
+    "name" : "site.NVMeCreateNamespacesStruct",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AppleNVMeRequest *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "212212",
+    "name" : "site.AppleNVMeSubmissionQueue",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 48,
+    "signature" : "212212",
+    "name" : "site.AppleNVMeCompletionQueue",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "1122",
+    "name" : "site.AppleNVMeQueueWaitToken",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.OSObject*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.IOHistogramReporter *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AppleBCMWLANStopwatch *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 116,
+    "size_type" : 92400,
+    "signature" : "",
+    "name" : "site.AppleBCMWLANTxPowerManager_IVars",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.AppleBCMWLANPCIeSkywalkPacket*",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "221",
+    "name" : "site.ChipWindow",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 16,
+    "signature" : "12",
+    "name" : "site.ItemSlice",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.buf_t",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 32,
+    "signature" : "1122",
+    "name" : "site.hotfile_data_t.hotfile_entry_t",
+    "size_hdr" : 64
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.DIDeviceRequest *",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 228,
+    "size_type" : 8,
+    "signature" : "1",
+    "name" : "site.DIDeviceRequest * _Atomic",
+    "size_hdr" : 0
+  },
+  {
+    "flags" : 100,
+    "size_type" : 24,
+    "signature" : "112",
+    "name" : "site.AICTimestampObject",
+    "size_hdr" : 0
+  }
+]
